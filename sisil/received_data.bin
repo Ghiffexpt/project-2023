@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: OpenMV
+Content-Type: multipart/x-mixed-replace;boundary=openmv
+Cache-Control: no-cache
+Pragma: no-cache
+

@@ -1,0 +1,13 @@
+channel,frequency,ip,power,status,bandwidth,position
+1,400,172.16.3.1,off,disconnect,0,43
+2,800,172.16.3.2,off,disconnect,0,0
+3,900,172.16.3.3,off,connect,0,0
+4,1200,172.16.3.4,off,connect,24,44
+5,1500,172.16.3.5,off,connect,76,8
+6,1800,172.16.3.6,off,disconnect,57,34
+7,2100,172.16.3.7,off,disconnect,62,38
+8,2300,172.16.3.8,off,disconnect,100,100
+9,2400,172.16.3.9,off,connect,29,49
+10,2500,172.16.3.10,off,disconnect,83,20
+11,5100,172.16.3.11,off,connect,51,31
+12,5800,172.16.3.12,off,connect,32,52

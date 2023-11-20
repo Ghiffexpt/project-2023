@@ -1,0 +1,31 @@
+list lagu:
++
+
+set music mp3:
+-/data lagu&
+
+aktif bluteooth stream:
+-1)
+
+aktif mode ulang:
+-2)
+
+nonaktif mode ulang:
+-3)
+
+pause:
+-4)
+
+play:
+-5)
+
+stop music:
+-6)
+
+set volume:
+-7data dari (0.1 - 1.0) )
+
+reset system:
+-8)
+
+ganti mode dari play music mp3 ke bluetooth stream harus reset system

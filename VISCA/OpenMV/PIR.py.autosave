@@ -1,0 +1,12 @@
+import pyb
+
+# Konfigurasi pin sebagai input
+pin = pyb.Pin("PG1", pyb.Pin.IN)
+
+# Membaca nilai digital dari pin
+while(True):
+    value = pin.value()
+    print(value)
+# Melakukan sesuatu dengan nilai yang dibaca
+ 
+ 
